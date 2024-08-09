@@ -1,0 +1,1 @@
+UPDATE Students SET CITY=Edinburg, COUNTRY=Scotland WHERE UserID = 35;
